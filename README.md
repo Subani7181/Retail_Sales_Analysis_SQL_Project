@@ -233,9 +233,9 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media:
+For queries or collaborations:
 
-- **Email**: [Text me if you have any queries](syedmahaboobjani772@gmail.com)
+- **Email**: [syedmahaboobjani772@gmail.com](mailto:syedmahaboobjani772@gmail.com)
 - **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/syed-mahabub-jani-a95a73234)
 
 Thank you!
